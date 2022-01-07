@@ -1,0 +1,2 @@
+# autosetting
+Python - autosetting project
